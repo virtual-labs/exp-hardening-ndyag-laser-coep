@@ -1,0 +1,616 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.refresh {
+	background: url("../css/images/rf.png") no-repeat scroll 7px 0px transparent;
+}
+.add {
+	background: url("../css/images/add.png") no-repeat scroll 9px -1px transparent;
+}
+.play {
+	background: url("../css/images/play.png") no-repeat scroll 19px -1px transparent;
+}
+.plot {
+	background: url("../css/images/plot.png") no-repeat scroll 8px -1px transparent;
+}
+.plot-sw {
+	 background: url("../css/images/plot.png") no-repeat scroll -3px -1px transparent;
+}
+.plot-sd {
+ background: url("../css/images/plot.png") no-repeat scroll -3px -1px transparent;
+}
+.plot-pd {
+	 background: url("../css/images/plot.png") no-repeat scroll -3px -1px transparent;
+}
+.plot-pw {
+	 background: url("../css/images/plot.png") no-repeat scroll -3px -1px transparent;
+}
+.start {
+	background: url("../css/images/start.png") no-repeat scroll 8px -1px transparent;
+}
+.container4 {
+	background: none repeat scroll 0 0 #DDDDDD;
+	border: 1px solid #FFFFFF;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+	height: 26em;
+	margin: 0 3em;
+	width: 73.7em;
+}
+.container3 {
+	height: 26em;
+	width: 38em;
+}
+.col1 {
+	border: 1px solid #BBBBBB;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	height: 24em;
+	margin: 1em 1em;
+}
+.col2 {
+	border: 1px solid #BBBBBB;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	height: 24em;
+	margin: -25em 38em;
+	width: 34.6em;
+}
+.titile {
+	border-bottom: 1px solid #BBBBBB;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;//
+	//
+	height: 2em;
+}
+h2 {
+	color: #A8A8A8;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 1.3em;
+	padding: 8px;
+	text-align: center;
+	text-decoration: none;
+	//text-shadow: 2px 0 2px #666666
+	//font: 80px 'LeagueGothicRegular';
+}
+#swf{
+       background: none repeat scroll 0 0 #00FF00;
+    border: medium none;
+    color: #000;
+    left: 401px;
+    padding: 5px;
+    position: relative;
+    top: -138px;
+    font-family:Times;
+
+
+	  
+}
+#diagram3 {
+     height: 105px;
+    left: 25em;
+    position: absolute;
+    top: 89px;
+    width: 210px;
+}
+#lasersource{
+	  left: 64em;
+    position: absolute;
+    top: 18em
+}
+#workpiece{
+	  left: 64.5em;
+    position: absolute;
+    top: 30em;
+}
+#power1{
+	//border: 2px dotted #000000;
+    height: 21px;
+    left: 125px;
+    position: absolute;
+    top: 84px;
+    width: 108px;
+}
+#dia {
+   //border: 2px dotted #000000;
+    height: 100px;
+    left: 446px;
+    position: absolute;
+    top: 375px;
+    width: 100px;
+}
+#Plot{
+	 margin: 0 23em;
+    position: absolute;
+}
+#Plot1{
+	 margin: -2.7em 23em;
+    position: absolute;
+}
+#MicroStructures{
+	  margin: 0 11.5em;
+    padding: 0;
+    width: 11em;
+}
+#spotVsDepth{
+	 margin: -2.6em 23em;
+    padding: 0;
+    position: absolute;
+}
+#spotVsWidth{
+	 margin: -2.7em 37em;
+    padding: 0;
+    position: absolute;
+}
+.buttonstyleplot{
+	  background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: 215px;
+    padding: 5px;
+    position: relative;
+    top: 19px;
+	
+}
+#header{
+	top:1px;
+	left:1px;
+	position:absolute;
+	border:2px groove  #c4c4c4;
+	width:1343px;
+	height:140px;
+	overflow:hidden;
+	background : url("../../../images/ui-bg_gloss-wave_35_f6a828_500x100.png") repeat-x scroll 50% 50% #84BFDF;
+}
+.buttonstyle3{
+      background: none repeat scroll 0 0 #CD2626;
+      border: medium none;
+      color: #E6E6E6;
+      padding: 5px;
+	  position:relative;
+	 right:-25px;
+	  width:143px;
+	  top:-128px;
+	  float:right;
+	
+}
+
+.buttonstyle8{
+      background: none repeat scroll 0 0 #CD2626;
+      border: medium none;
+      color: #E6E6E6;
+      padding: 5px;
+	  position:relative;
+	 right:-25px;
+	  width:143px;
+	  top:-128px;
+	  float:right;
+	
+}
+
+
+.colmask {
+    background: none repeat scroll 0 0 #E6E6BA;
+    clear: both;
+    float: none;
+    height: 820px;
+    margin-left: 3%;
+    margin-right: 3%;
+    max-height: 1500px;
+    min-height: 550px;
+    overflow: hidden;
+    position: relative;
+    top: 146px;
+    width: 1250px;
+}
+
+.threecol {
+    background: none repeat scroll 0 0 #E6E6BA;
+    border: 10px dotted #FFFFFF;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+/
+.diagramstyle{
+      border: 2px dotted #000000;
+      border-radius: 10px 10px 10px 10px;
+      height: 250px;
+      margin-left: 100px;
+      overflow: hidden;
+      width: 300px;
+}
+
+.odd{
+    background: none repeat scroll 0 0 #216f90;
+	padding: 0px 0 7px 0;
+	color: #FFFFFF !important;
+	border: 0 none !important;
+	border-radius: 0 0 0 0 !important;
+	font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
+	font-size: 1em !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	text-align: center !important;
+	width: 13em;
+}
+
+.even{
+     background: none repeat scroll 0 0 #2D94C1;
+	color: #FFFFFF !important;
+	border: 0 none !important;
+	border-radius: 0 0 0 0 !important;
+	font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
+	font-size: 1em !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	line-height: 1.1em !important;
+	padding: 5px 0 7px 0;
+	text-align: center !important;
+	width: 13em;
+}
+
+#resultsection{
+    border: 2px dotted #000000;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 25px;
+   width: 230px;
+}
+
+.headerarea{
+   border-bottom: 2px solid #010101;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+
+b.{
+  background: none repeat scroll 0 0 #CD2626;
+      border: medium none;
+      color: #E6E6E6;
+      padding: 5px;
+	  position:relative;
+	  left:140px;
+	  top:18px;
+}
+#selectedvalue h3{
+    text-align: center;
+}
+
+.borderstyle{
+	border: 2px dotted #000000;
+    border-radius: 10px 10px 10px 10px;
+    height: 218px;
+    left: 4px;
+    position: absolute;
+    top: -20px;
+    width: 230px;
+}
+
+#selectedvalue{
+     min-height: 240px;
+      max-height:auto;
+}
+#powerVsDepth{
+	  margin: -2.7em 37.7em;
+    padding: 0;
+    position: absolute;
+}
+#powerVsWidth{
+	  margin: -2.7em 23em;
+    padding: 0;
+    position: absolute;
+}
+#outputarea{
+   margin: 3em 0;
+    min-height: 9em;
+}
+#output{
+	    margin: 0 0.5em;
+    position: absolute;
+}
+#outputnew{
+	 margin: -2.7em 1em;
+    position: absolute;
+}
+#reset{
+	 margin: 0 6em;
+    position: absolute;
+}
+small {
+    color: grey;
+    font-family: lucida Grande;
+    font-size: 1em;
+    line-height: 1.65em;
+}
+#outputresultsection{
+         border: 2px dotted #000000;
+    border-radius: 10px 10px 10px 10px;
+    height: 218px;
+    left: 4px;
+    margin-top: 30px;
+    position: absolute;
+    top: -35px;
+    width: 378px;
+     
+}
+
+#contentoutput{
+	// border: 2px solid #E6E6E6;
+    height: 15em;
+    margin: -9em 16em;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: relative;
+    width: 20em;
+}
+
+#header h1{
+      padding-left:20px;
+      padding-bottom:20px;
+}
+
+#selectedvalue ul{
+     list-style: none outside none;
+    padding-left: 20px;
+    width: 258px;
+}
+
+#outputarea ul li{
+      border-bottom: 1px dashed #000000;
+}
+
+.aligntext{
+      padding-left:20px;
+}
+.materialvalueout{
+     padding: 10px;
+	width: 232px;
+}
+
+.materialvalueout tr td{
+      padding-left: 10px;
+      text-align: justify;
+}
+
+#outputarea ul{
+  	list-style: none outside none;
+	padding: 5px 5px 5px 45px;
+	width: 200px;
+}
+
+.buttonstyle{
+         
+       background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: 4px;
+    padding: 5px;
+    position: relative;
+    top: -18px;
+}
+.buttonstyleop{
+	  background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: -69px;
+    padding: 5px;
+    position: relative;
+    top: 16px;
+	
+}
+.buttonstyle:hover{
+      text-shadow: 1px 1px 2px #000000;
+      box-shadow: 2px 2px 2px #000000;
+}
+.buttonstyle12{
+        background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: 350px;
+    padding: 5px;
+    position: relative;
+    top: -9px;
+    width: 123px;
+}
+.buttonstyle1{
+        background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: 350px;
+    padding: 5px;
+    position: relative;
+    top: -9px;
+    width: 123px;
+}
+.buttonstyle1:hover{
+      text-shadow: 1px 1px 2px #000000;
+      box-shadow: 2px 2px 2px #000000;
+}
+
+.buttonstyle2{
+        background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: 480px;
+    padding: 5px;
+    position: relative;
+    top: -36px;
+    width: 132px;
+}
+.buttonstyle2:hover{
+      text-shadow: 1px 1px 2px #000000;
+      box-shadow: 2px 2px 2px #000000;
+}
+
+
+.buttonstylereset{
+          background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: 74px;
+    padding: 5px;
+    position: relative;
+    top: 16px;
+}
+
+.buttonstylereset:hover{
+      text-shadow: 1px 1px 2px #000000;
+      box-shadow: 2px 2px 2px #000000;
+}
+
+.buttonstyleMicro{
+        background: none repeat scroll 0 0 #CD2626;
+    border: medium none;
+    color: #E6E6E6;
+    left: 243px;
+    padding: 5px;
+    position: relative;
+    top: 47px;
+    width: 100px;
+}
+
+.buttonstyleMicro:hover{
+      text-shadow: 1px 1px 2px #000000;
+      box-shadow: 2px 2px 2px #000000;
+}
+
+.inputstyle{
+	 margin: -2em 8em;
+}
+
+.leftcontent{
+	float: none;
+    line-height: 14px;
+    margin: 5px 5px 10px;
+    width: 100px;
+}
+
+.rightconetnt{
+	float: right;
+    line-height: 11px;
+    margin: -32px 5px 10px;
+}
+
+#buttonfooter{
+	display: inline;
+    float: none;
+    margin-left: 17px;
+    margin-top: 15px;
+    width: 500px;
+}
+
+#plotenergy{
+	margin-left: 70px;
+}
+label{color: #222222;
+	font: 700 81.25% /3em arial, helvetica, sans-serif;
+	margin: 1em;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+}
+#diagramcontainer{
+	// border-radius: 10px 10px 10px 10px;
+    //border: 2px solid red;
+    height: 416px;
+    left: 47em;
+    overflow: hidden;
+    position: absolute;
+    top: 10em;
+    width: 379px;
+}
+.content {
+	border-bottom: 2px solid #DDDDDD;
+	height: 17em;
+	margin-bottom: 10px;
+	position: relative;
+}
+#diagram{
+//	border: 2px solid red;
+     height: 432px;
+    margin-left: -2em;
+    margin-top: 7px;
+    position: relative;
+    width: 433px;
+}
+
+#diagram1{
+	  height: 92px;
+    margin-left: 175px;
+    position: relative;
+    top: -272px;
+    width: 31px;
+}
+#diagram2{
+  height: 50px;
+    margin-left: 128px;
+    position: relative;
+    top: -220px;
+    width: 119px;
+}
+#startbtn{
+  margin: 1em;}
+
+#anibtn{
+	position:absolute;
+	left:-60px;
+	top:10px;
+	width:100px;
+	z-index:9999;
+}
+//image description
+.imagepluscontainer{ /* main image container */
+position: relative;
+z-index: 1;
+}
+
+.imagepluscontainer diagramcontainer{ /* CSS for image within container */
+position: relative;
+z-index: 2;
+-moz-transition: all 0.5s ease; /* Enable CSS3 transition on all props */
+-webkit-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+}
+
+.imagepluscontainer:hover diagramcontainer{ /* CSS for image when mouse hovers over main container */
+-moz-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+-moz-transform: scale(1.05, 1.05);
+-webkit-transform: scale(1.05, 1.05);
+-ms-transform: scale(1.05, 1.05);
+-o-transform: scale(1.05, 1.05);
+transform: scale(1.05, 1.05);
+}
+
+.imagepluscontainer div.desc{ /* CSS for desc div of each image. */
+    -moz-transition: all 0.5s ease 0.5s;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
+    border-radius: 0 0 8px 8px;
+    bottom: 4em;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.8);
+    color: white;
+    left: 52em;
+    opacity: 0;
+    padding: 8px;
+    position: absolute;
+    width: 14%;
+    z-index: 1;
+ }
+
+.imagepluscontainer div.desc a{
+color: white;
+}
+
+.imagepluscontainer:hover div.desc{ /* CSS for desc div when mouse hovers over main container */
+-moz-transform: translate(0, 50%);
+-webkit-transform: translate(0, 50%);
+-ms-transform: translate(0, 50%);
+-o-transform: translate(0, 50%);
+transform: translate(0, 50%);
+opacity:1; /* Reveal desc DIV fully */
+}
+
