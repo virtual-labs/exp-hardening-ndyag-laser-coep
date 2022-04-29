@@ -41,11 +41,11 @@ The experiments are performed for laser hardening of Pearlitic Grey Cast Iron li
 
 Chemical analysis of the material is carried out and its composition is as given in the table 1.1; which reveals it is grey cast iron.
 
-img
+<center><img src="images/pimg2.png" title="" /></center>
 
 **2.0 Preparation of test specimens**
 
-img
+<center><img src="images/pimg3.png" title="" /></center>
 
 The liner supplied has inner bore and outer diameter as 100 and 114 mm respectively. The liner is divided in to 30 parts. Each part is magnitude of 12&deg; perpendicular to the linear axis as shown in fig 1.1. The test specimens prepared are of 30x10 mm size. The preparation of these specimens has been carried out by using Wire EDM (Ecocut).
 
@@ -69,7 +69,7 @@ The various spots are taken for constant power 918 Watts for spot size ranging f
 After the laser treatment, the surface is grounded by using different grades of emery papers (200, 400, 600 and 800). Then specimens are polished by using different grades of polishing papers (1/0, 2/0, 3/0, 4/0 and 5/0) followed by lapping on polishing machine. After polishing, the surface is thoroughly washed with soap solution and dried with a hot drier. The hardness variation along the surface is computed.
 For the purpose of metallographic analysis, the treated specimens are transversely cut on Wire EDM as shown in fig 1.2, after grounding the surface. Subsequently the surface is etched. To observe the martensitic structure, the recommended enchant 5% nital (5cc HCl + 95cc alcohol) solution is used. This made the specimens ready for the study of microstructure. The above procedure is followed for each specimen. The specimens are carefully stored in different airtight desiccators.
 
-img
+<center><img src="images/pimg4.png" title="" /></center>
 
 **5.0 Metallographic analysis**
 
