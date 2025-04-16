@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title> YAGLaser COEP </title>
+		<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/yagLaser.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="css/jquery-ui-1.8.16.custom.css" media="screen" />
+		<link rel="stylesheet" href="css/common.css" />
+		<script type="text/javascript" src="js/jsxgraphcore.js"></script>
+		<script type="text/javascript" src="js/swfobject.js"></script>
+		<script type="text/javascript" src="js/chosen.jquery.min.js"></script>
+		<link rel="stylesheet" href="css/chosen.css" />
+		<link rel="stylesheet" href="css/css3.css" />
+		<script type="text/javascript" src="js/jquery.simplemodal.js"></script>
+		<script type="text/javascript" src="js/model.js"></script>
+		<link type="text/css"  rel="stylesheet"  href="css/model.css" />
+		<script type="text/javascript" src="js/model1.js"></script>
+			<script type="text/javascript" src="js/model2.js"></script>
+				<script type="text/javascript" src="js/model3.js"></script>
+		<script type="text/javascript" src="js/jquery.tinyscrollbar.min.js"></script>
+		<link rel="stylesheet" href="css/website.css" type="text/css" media="screen"/>
+		<script type="text/javascript" src="js/jquery.qtip.min.js"></script>
+		<link rel="stylesheet" href="css/jquery.qtip.min.css" />
+		<link rel="stylesheet" href="css/header.css" />
+		<script type="text/javascript">
+			var volume, radious, indataarray = [];
+			var objMaterial, draw, objdata, i = 0;
+
+		</script>
+	</head>
+	<body>
+		<article class="page">
+		<div id="tabs">
+		<ul>
+			<div class = "imag">
+				<img src="images/coep_logo_sim.png">
+				<h3 align="left" style="font-size:20px; color: #ffffff;"  class = "headStyle">Pulsed Heating of Materials with High Energy Density Pulses</h3>
+				
+			</div>
+							
+		</ul>
+			<!--<header class="logo">
+				<aside class = 'logo-title'>
+					College of
+					<br>
+					<small>Engineering,Pune</small>
+				</aside>
+				<span id="a2network">Micromachine Laboratory</span>
+			</header>
+			<aside class="primary">
+				<p class="subhead">
+					Virtual Laboratory
+				</p>
+				<h3 class = "headStyle">To Study Pulsed Heating of Materials with High Energy Density Pulses</h3>
+			</aside>
+			<hr/>-->
+			<section class = "container4">
+				<section class = "container3">
+					<div class = "col1">
+						<h2 class = "titile">Control Panel</h2>
+						<div class="content">
+							<label>Type of State : </label>
+							<div class="inputstyle">
+								<select id="state" onchange="selectedMode();" style="width: 100px;">
+									<option selected="selected"> --select-- </option>
+									<option value="Pulsed"> Pulsed </option>
+									<!--<option value="Continuous"> Continuous</option>-->
+								</select>
+							</div>
+							<br>
+							<br>
+							<label>Power(Watt) :</label>
+							<div class="inputstyle">
+								<select id="power"  onchange="ch2();" style="width: 100px;">
+									<option selected="selected"> --select-- </option>
+									<option value="795"> 795 </option>
+									<option value="816"> 816 </option>
+									<option value="858"> 858 </option>
+									<option value="877"> 877 </option>
+									<option value="905"> 905 </option>
+									<option value="928"> 928 </option>
+									<option value="950"> 950 </option>
+									<option value="973"> 973 </option>
+									<option value="1000"> 1000 </option>
+								</select>
+							</div>
+							<br>
+							<br>
+							<label>SpotSize(mm) :</label>
+							<div class="inputstyle">
+								<select id="spotsize" onchange="ch();" style="width: 100px;">
+									<option selected="selected"> --select-- </option>
+									<option value="1.032-1"> 1.032 </option>
+									<option value="1.032-2"> 1.032 </option>
+									<option value="1.082-1"> 1.082 </option>
+									<option value="1.082-2"> 1.082 </option>
+									<option value="1.166-1"> 1.166 </option>
+									<option value="1.166-2"> 1.166 </option>
+								</select>
+							</div>
+							<div id="contentoutput">
+								<div id = "outputarea">
+									<small id="maxDepth" style = " position:relative; top: -5px; left:10px;"> </small>
+									<small id="constants" style = " position:absolute; top:-1px; left:10px;"></small>
+									<small id="interactionTime" style = " position:absolute; top:20px; left:10px;"></small>
+								</div>
+							</div>
+						</div>
+						<button id="output" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  onclick="selectedPower();"  title="Output">
+							<span class = "label add"></span>
+						</button>
+						<button id="reset" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  onClick="reset();" title="Reload">
+							<span class = "label refresh"></span>
+						</button>
+						<button id="Plot" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  onClick="checkPlotValue();"  title="Plot">
+							<span class = "label plot"></span>
+						</button>
+						<!--<button id="MicroStructures" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  onClick="openNeWindow();">
+							<span class = "label">MicroStructures</span>
+						</button>-->
+						<button id="outputnew" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  onClick="selectedSpotSize();"  title="Output">
+							<span class = "label add"></span>
+						</button>
+						<button id="Plot1" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  onClick="pl();" title="Plot">
+							<span class = "label plot"></span>
+						</button>
+						<button id="powerVsWidth" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  title="Power Vs spotWidth">
+							<span class = "label plot-pw">Power Vs spotWidth</span>
+						</button>
+						<button id="powerVsDepth" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  title="Power Vs CaseDepth">
+							<span class = "label plot-pd">Power Vs CaseDepth</span>
+						</button>
+						<button id="spotVsDepth" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"   title="Spot Size vs Depth">
+							<span class = "label plot-sd">Spot Size vs Depth</span>
+						</button>
+						<button id="spotVsWidth" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"   title="Spot Size vs Width">
+							<span class = "label plot-sw">Spot Size vs Width</span>
+						</button>
+					</div>
+					<div class = "col2">
+						<h2 class = "titile">Diagram</h2>
+						<button id="startbtn" class="action greenbtn"style="font: bold 11px/17px Helvetica,Arial,sans-serif;"  onClick="try{startAnimation(); return false;}catch(e){alert(e);}" title="Start">
+							<span class = "label start"></span>
+						</button>
+						<div class="imagepluscontainer" style="width:300px; height:250px; z-index:2">
+							<div id = "diagramcontainer">
+								<canvas id="diagram" width="300" height="250"></canvas>
+								<canvas id="diagram1" width="50" height="50"></canvas>
+								<canvas id="diagram2" width="50" height="100"></canvas>
+							</div>
+							<div id="dia">
+								<canvas id="diagram3" width="70" height="150"></canvas>
+							</div>
+							<div class="desc">
+							
+						</div>
+							<h5 id ="lasersource"><font face = "Times">LaserSource</font></h5>
+							<h5 id ="workpiece"><font face = "Times">Workpiece</font></h5>
+						</div>
+						
+					</div>
+				</section>
+			</section>
+			<div id="cur-modal-content">
+				<div id="cur-modal-title">
+					Graph
+				</div>
+				<div class="close">
+					<a href="#" class="simplemodal-close">x</a>
+				</div>
+				<div id="cur-modal-data">
+					<div id="graph" style="width:95%; height:510px;z-index: 999999;"></div>
+					<p>
+						<button class="action simplemodal-close redbtn">
+							<span class="label">Close</span>
+						</button>
+						<span>(or press ESC or click the overlay)</span>
+					</p>
+				</div>
+			</div>
+		</div>
+			<!--<hr/>
+			<footer>
+				<h4>&#169; 2011 - 2012 COEP Virtual Lab</h4>
+			</footer>-->
+		
+		<div style="position:absolute; top:617px; width:1229px;margin:0 auto;">
+		<div class="art-footer">
+                <div class="art-footer-t"></div>
+                <div class="art-footer-l"></div>
+                <div class="art-footer-b"></div>
+                <div class="art-footer-r"></div>
+                <div class="art-footer-body">
+                    
+					
+                            <div class="art-footer-text art-footer-psr">
+                               <p>Copyright &#169;2011.COEP Virtual Lab.</p>
+                                                            </div>
+                    <div class="cleared"></div>
+                </div>
+            </div>
+		</div>
+		</article>
+		<script type="text/javascript" src="js/highcharts.js"></script>
+		
+		<script type="text/javascript" src="js/modules/exporting.js"></script>
+		<script type="text/javascript" src="js/raphael.js"></script>
+		<script type="text/javascript" src="js/yagLaser.js"></script>
+	<script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</html>

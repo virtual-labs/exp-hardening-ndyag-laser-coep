@@ -1,0 +1,905 @@
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/chosen.jquery.min.js
+  10:2270   warning  'a' is defined but never used           no-unused-vars
+  10:2404   warning  'a' is defined but never used           no-unused-vars
+  10:3216   warning  'a' is defined but never used           no-unused-vars
+  10:4082   warning  'b' is assigned a value but never used  no-unused-vars
+  10:4370   warning  'jQuery' is not defined                 no-undef
+  10:4507   warning  'd' is defined but never used           no-unused-vars
+  10:9087   warning  'a' is defined but never used           no-unused-vars
+  10:12567  warning  'a' is defined but never used           no-unused-vars
+  10:20146  warning  'd' is assigned a value but never used  no-unused-vars
+  10:20852  warning  'AbstractChosen' is not defined         no-undef
+  10:20895  warning  'b' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/highcharts.js
+   10:101  warning  'b' is already defined                                           no-redeclare
+   10:131  warning  'd' is already defined                                           no-redeclare
+   10:161  warning  'e' is already defined                                           no-redeclare
+   10:174  warning  'c' is already defined                                           no-redeclare
+   10:411  warning  'a' is already defined                                           no-redeclare
+   11:145  warning  'g' is already defined                                           no-redeclare
+   17:475  warning  'e' is already defined                                           no-redeclare
+   18:21   warning  'i' is already defined                                           no-redeclare
+   23:184  warning  'd' is already defined                                           no-redeclare
+   24:223  warning  'Ab' is already defined                                          no-redeclare
+   25:257  warning  'a' is already defined                                           no-redeclare
+   25:357  warning  'd' is already defined                                           no-redeclare
+   25:401  warning  'd' is already defined                                           no-redeclare
+   31:283  warning  'e' is already defined                                           no-redeclare
+   31:341  warning  'c' is already defined                                           no-redeclare
+   32:27   warning  'd' is already defined                                           no-redeclare
+   32:196  warning  'a' is already defined                                           no-redeclare
+   32:242  warning  'c' is already defined                                           no-redeclare
+   37:160  warning  'c' is already defined                                           no-redeclare
+   41:89   warning  'a' is already defined                                           no-redeclare
+   42:335  warning  'f' is already defined                                           no-redeclare
+   43:62   warning  'a' is already defined                                           no-redeclare
+   45:212  warning  'e' is already defined                                           no-redeclare
+   45:227  warning  'd' is already defined                                           no-redeclare
+   46:315  warning  'a' is already defined                                           no-redeclare
+   49:387  warning  'b' is already defined                                           no-redeclare
+   50:213  warning  'a' is already defined                                           no-redeclare
+   56:28   warning  'a' is already defined                                           no-redeclare
+   56:59   warning  'A' is already defined                                           no-redeclare
+   57:79   warning  'h' is already defined                                           no-redeclare
+   57:240  warning  'a' is already defined                                           no-redeclare
+   72:52   warning  'a' is already defined                                           no-redeclare
+   72:79   warning  'b' is already defined                                           no-redeclare
+   72:171  warning  'b' is already defined                                           no-redeclare
+   73:103  warning  'b' is already defined                                           no-redeclare
+   73:151  warning  'b' is already defined                                           no-redeclare
+   73:166  warning  'c' is already defined                                           no-redeclare
+   74:292  warning  'jQuery' is not defined                                          no-undef
+   74:299  warning  'l' is already defined                                           no-redeclare
+   74:386  warning  'lc' is already defined                                          no-redeclare
+   74:397  warning  'qb' is already defined                                          no-redeclare
+   74:487  warning  'Q' is already defined                                           no-redeclare
+   75:58   warning  'ha' is already defined                                          no-redeclare
+   75:94   warning  'Na' is already defined                                          no-redeclare
+   75:229  warning  'ga' is already defined                                          no-redeclare
+   75:397  warning  'Ub' is already defined                                          no-redeclare
+   75:476  warning  'Eb' is already defined                                          no-redeclare
+   76:88   warning  'jQuery' is not defined                                          no-undef
+   76:115  warning  'jQuery' is not defined                                          no-undef
+   84:181  warning  'y' is already defined                                           no-redeclare
+   85:447  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   87:95   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   92:227  warning  'a' is already defined                                           no-redeclare
+   92:486  warning  'b' is already defined                                           no-redeclare
+   95:147  warning  'c' is already defined                                           no-redeclare
+  101:382  warning  'c' is already defined                                           no-redeclare
+  103:98   warning  'c' is already defined                                           no-redeclare
+  106:322  warning  'g' is already defined                                           no-redeclare
+  108:118  warning  'f' is already defined                                           no-redeclare
+  108:126  warning  'd' is already defined                                           no-redeclare
+  108:341  warning  'a' is already defined                                           no-redeclare
+  108:474  warning  'b' is already defined                                           no-redeclare
+  108:493  warning  'c' is already defined                                           no-redeclare
+  110:29   warning  'b' is already defined                                           no-redeclare
+  110:41   warning  'c' is already defined                                           no-redeclare
+  110:53   warning  'a' is already defined                                           no-redeclare
+  111:95   warning  'd' is already defined                                           no-redeclare
+  115:39   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  117:3    warning  'c' is already defined                                           no-redeclare
+  117:26   warning  'd' is already defined                                           no-redeclare
+  120:293  warning  'b' is already defined                                           no-redeclare
+  122:153  warning  'a' is already defined                                           no-redeclare
+  124:342  warning  'd' is already defined                                           no-redeclare
+  125:167  warning  'd' is already defined                                           no-redeclare
+  125:190  warning  'c' is already defined                                           no-redeclare
+  128:32   warning  'a' is already defined                                           no-redeclare
+  129:327  warning  'b' is already defined                                           no-redeclare
+  131:292  warning  'a' is already defined                                           no-redeclare
+  133:208  warning  'b' is already defined                                           no-redeclare
+  135:334  warning  'a' is already defined                                           no-redeclare
+  136:368  warning  'a' is already defined                                           no-redeclare
+  141:34   warning  'a' is already defined                                           no-redeclare
+  141:42   warning  'b' is already defined                                           no-redeclare
+  141:50   warning  'c' is already defined                                           no-redeclare
+  141:58   warning  'd' is already defined                                           no-redeclare
+  143:39   warning  Unnecessary escape character: \.                                 no-useless-escape
+  148:349  warning  'f' is already defined                                           no-redeclare
+  150:379  warning  'b' is already defined                                           no-redeclare
+  150:393  warning  'a' is already defined                                           no-redeclare
+  151:218  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  152:381  warning  'h' is already defined                                           no-redeclare
+  154:141  warning  'g' is already defined                                           no-redeclare
+  156:211  warning  'h' is already defined                                           no-redeclare
+  156:275  warning  'z' is already defined                                           no-redeclare
+  159:446  warning  'a' is already defined                                           no-redeclare
+  162:167  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  163:347  warning  'b' is already defined                                           no-redeclare
+  164:183  warning  'y' is assigned a value but never used                           no-unused-vars
+  164:213  warning  'f' is already defined                                           no-redeclare
+  164:241  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  167:238  warning  'm' is already defined                                           no-redeclare
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/highcharts.src.js
+    13:10   warning  'document' is already defined as a built-in global variable       no-redeclare
+    13:20   warning  'window' is already defined as a built-in global variable         no-redeclare
+    13:28   warning  'navigator' is already defined as a built-in global variable      no-redeclare
+    13:39   warning  'setInterval' is already defined as a built-in global variable    no-redeclare
+    13:52   warning  'clearInterval' is already defined as a built-in global variable  no-redeclare
+    13:67   warning  'clearTimeout' is already defined as a built-in global variable   no-redeclare
+    13:81   warning  'setTimeout' is already defined as a built-in global variable     no-redeclare
+    13:93   warning  'location' is already defined as a built-in global variable       no-redeclare
+    13:111  warning  '$' is defined but never used                                     no-unused-vars
+  2425:45   warning  Unnecessary escape character: \"                                  no-useless-escape
+  2425:79   warning  Unnecessary escape character: \"                                  no-useless-escape
+  6569:8    warning  'lastWasOutsidePlot' is assigned a value but never used           no-unused-vars
+  9609:23   warning  Unnecessary escape character: \.                                  no-useless-escape
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/jquery-1.6.2.min.js
+  16:820    warning  Empty block statement                                            no-empty
+  16:877    warning  Empty block statement                                            no-empty
+  16:4181   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:4409   warning  'b' is defined but never used                                    no-unused-vars
+  16:4685   warning  'd' is defined but never used                                    no-unused-vars
+  16:4861   warning  'd' is defined but never used                                    no-unused-vars
+  16:5073   warning  'l' is defined but never used                                    no-unused-vars
+  16:6877   warning  Empty block statement                                            no-empty
+  16:7181   warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:7283   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:7368   warning  Unnecessary escape character: \-                                 no-useless-escape
+  16:7418   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:7457   warning  Unnecessary escape character: \/                                 no-useless-escape
+  16:10926  warning  Empty block statement                                            no-empty
+  16:11936  warning  'ActiveXObject' is not defined                                   no-undef
+  16:16920  warning  'r' is defined but never used                                    no-unused-vars
+  16:20036  warning  Redundant double negation                                        no-extra-boolean-cast
+  16:20561  warning  Redundant double negation                                        no-extra-boolean-cast
+  16:22433  warning  'e' is defined but never used                                    no-unused-vars
+  16:23155  warning  'c' is assigned a value but never used                           no-unused-vars
+  16:23265  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:23657  warning  Unnecessary escape character: \:                                 no-useless-escape
+  16:23975  warning  Empty block statement                                            no-empty
+  16:25072  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:30691  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:31256  warning  'i' is defined but never used                                    no-unused-vars
+  16:31485  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  16:32074  warning  'g' is assigned a value but never used                           no-unused-vars
+  17:1062   warning  Empty block statement                                            no-empty
+  17:4632   warning  'a' is defined but never used                                    no-unused-vars
+  17:4634   warning  'b' is defined but never used                                    no-unused-vars
+  17:5042   warning  'a' is defined but never used                                    no-unused-vars
+  17:6125   warning  'a' is defined but never used                                    no-unused-vars
+  17:6127   warning  'b' is defined but never used                                    no-unused-vars
+  17:6266   warning  'a' is defined but never used                                    no-unused-vars
+  17:9740   warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:9766   warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:9791   warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:11485  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:12497  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12538  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12588  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12638  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12702  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12749  warning  Unnecessary escape character: \*                                 no-useless-escape
+  17:12751  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12821  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12834  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12852  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12933  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:12970  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:13000  warning  Unnecessary escape character: \)                                 no-useless-escape
+  17:13009  warning  Unnecessary escape character: \(                                 no-useless-escape
+  17:13011  warning  Unnecessary escape character: \)                                 no-useless-escape
+  17:13331  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:14711  warning  'b' is defined but never used                                    no-unused-vars
+  17:14866  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:17568  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:17643  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  17:17660  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:18773  warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:18785  warning  Unnecessary escape character: \(                                 no-useless-escape
+  17:21483  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:21496  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:21905  warning  Empty block statement                                            no-empty
+  17:22187  warning  Empty block statement                                            no-empty
+  17:22568  warning  Unnecessary escape character: \=                                 no-useless-escape
+  17:22749  warning  Empty block statement                                            no-empty
+  17:23605  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:23961  warning  Unnecessary escape character: \[                                 no-useless-escape
+  17:23963  warning  Unnecessary escape character: \.                                 no-useless-escape
+  17:27092  warning  'd' is defined but never used                                    no-unused-vars
+  17:27559  warning  Unnecessary escape character: \-                                 no-useless-escape
+  17:27561  warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:2210   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:2225   warning  Unnecessary escape character: \.                                 no-useless-escape
+  18:3245   warning  Empty block statement                                            no-empty
+  18:4545   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:5498   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:5510   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:5698   warning  Unnecessary escape character: \+                                 no-useless-escape
+  18:5700   warning  Unnecessary escape character: \.                                 no-useless-escape
+  18:5702   warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:5718   warning  Unnecessary escape character: \/                                 no-useless-escape
+  18:6784   warning  'c' is defined but never used                                    no-unused-vars
+  18:8179   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:8241   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:9110   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  18:11453  warning  Unnecessary escape character: \=                                 no-useless-escape
+  18:13818  warning  Empty block statement                                            no-empty
+  18:14449  warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:14461  warning  Unnecessary escape character: \-                                 no-useless-escape
+  18:20898  warning  Empty block statement                                            no-empty
+  18:22035  warning  'e' is assigned a value but never used                           no-unused-vars
+  18:22514  warning  'g' is defined but never used                                    no-unused-vars
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/jquery-ui-1.8.16.custom.min.js
+   18:30   warning  'jQuery' is not defined                                          no-undef
+   19:1    warning  Unnecessary semicolon                                            no-extra-semi
+   28:149  warning  Empty block statement                                            no-empty
+   28:358  warning  Empty block statement                                            no-empty
+   33:501  warning  'jQuery' is not defined                                          no-undef
+   34:1    warning  Unnecessary semicolon                                            no-extra-semi
+   49:186  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   50:467  warning  'jQuery' is not defined                                          no-undef
+   51:1    warning  Unnecessary semicolon                                            no-extra-semi
+   66:340  warning  'jQuery' is not defined                                          no-undef
+   67:1    warning  Unnecessary semicolon                                            no-extra-semi
+  116:466  warning  'jQuery' is not defined                                          no-undef
+  117:1    warning  Unnecessary semicolon                                            no-extra-semi
+  142:4    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  143:68   warning  'jQuery' is not defined                                          no-undef
+  144:1    warning  Unnecessary semicolon                                            no-extra-semi
+  184:427  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  192:207  warning  'jQuery' is not defined                                          no-undef
+  193:1    warning  Unnecessary semicolon                                            no-extra-semi
+  210:309  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  214:306  warning  'jQuery' is not defined                                          no-undef
+  215:1    warning  Unnecessary semicolon                                            no-extra-semi
+  274:260  warning  'jQuery' is not defined                                          no-undef
+  275:1    warning  Unnecessary semicolon                                            no-extra-semi
+  304:233  warning  'jQuery' is not defined                                          no-undef
+  305:1    warning  Unnecessary semicolon                                            no-extra-semi
+  320:325  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  330:156  warning  'jQuery' is not defined                                          no-undef
+  335:229  warning  'result' is not defined                                          no-undef
+  335:362  warning  'result' is not defined                                          no-undef
+  335:378  warning  'result' is not defined                                          no-undef
+  335:447  warning  'result' is not defined                                          no-undef
+  336:210  warning  'jQuery' is not defined                                          no-undef
+  337:1    warning  Unnecessary semicolon                                            no-extra-semi
+  363:44   warning  'jQuery' is not defined                                          no-undef
+  364:1    warning  Unnecessary semicolon                                            no-extra-semi
+  403:309  warning  'jQuery' is not defined                                          no-undef
+  404:1    warning  Unnecessary semicolon                                            no-extra-semi
+  436:424  warning  'jQuery' is not defined                                          no-undef
+  437:1    warning  Unnecessary semicolon                                            no-extra-semi
+  457:135  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  469:115  warning  Empty block statement                                            no-empty
+  469:249  warning  Empty block statement                                            no-empty
+  471:28   warning  't' is not defined                                               no-undef
+  471:288  warning  'jQuery' is not defined                                          no-undef
+  472:1    warning  Unnecessary semicolon                                            no-extra-semi
+  503:210  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  504:296  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  526:354  warning  Unexpected constant condition                                    no-constant-condition
+  532:162  warning  Empty block statement                                            no-empty
+  533:185  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  554:268  warning  'jQuery' is not defined                                          no-undef
+  555:1    warning  Unnecessary semicolon                                            no-extra-semi
+  570:357  warning  'jQuery' is not defined                                          no-undef
+  571:1    warning  Unnecessary semicolon                                            no-extra-semi
+  580:1    warning  'jQuery' is not defined                                          no-undef
+  580:103  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  580:244  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  580:276  warning  Unnecessary escape character: \%                                 no-useless-escape
+  580:306  warning  Unnecessary escape character: \%                                 no-useless-escape
+  580:336  warning  Unnecessary escape character: \%                                 no-useless-escape
+  580:430  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  581:45   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  581:384  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  582:111  warning  Unnecessary escape character: \-                                 no-useless-escape
+  592:197  warning  'unit' is not defined                                            no-undef
+  592:218  warning  'unit' is not defined                                            no-undef
+  592:233  warning  'unit' is not defined                                            no-undef
+  592:243  warning  'unit' is not defined                                            no-undef
+  601:30   warning  'jQuery' is not defined                                          no-undef
+  602:1    warning  Unnecessary semicolon                                            no-extra-semi
+  615:95   warning  'jQuery' is not defined                                          no-undef
+  616:1    warning  Unnecessary semicolon                                            no-extra-semi
+  630:347  warning  'jQuery' is not defined                                          no-undef
+  631:1    warning  Unnecessary semicolon                                            no-extra-semi
+  644:293  warning  'jQuery' is not defined                                          no-undef
+  645:1    warning  Unnecessary semicolon                                            no-extra-semi
+  658:294  warning  'jQuery' is not defined                                          no-undef
+  659:1    warning  Unnecessary semicolon                                            no-extra-semi
+  673:334  warning  'jQuery' is not defined                                          no-undef
+  674:1    warning  Unnecessary semicolon                                            no-extra-semi
+  686:294  warning  'jQuery' is not defined                                          no-undef
+  687:1    warning  Unnecessary semicolon                                            no-extra-semi
+  700:352  warning  'jQuery' is not defined                                          no-undef
+  701:1    warning  Unnecessary semicolon                                            no-extra-semi
+  714:103  warning  'jQuery' is not defined                                          no-undef
+  715:1    warning  Unnecessary semicolon                                            no-extra-semi
+  727:133  warning  'times' is not defined                                           no-undef
+  727:164  warning  'duration' is not defined                                        no-undef
+  727:220  warning  'isVisible' is not defined                                       no-undef
+  727:247  warning  'animateTo' is not defined                                       no-undef
+  727:263  warning  'isVisible' is not defined                                       no-undef
+  727:300  warning  'animateTo' is not defined                                       no-undef
+  727:326  warning  'isVisible' is not defined                                       no-undef
+  727:349  warning  'isVisible' is not defined                                       no-undef
+  727:359  warning  'times' is not defined                                           no-undef
+  727:377  warning  'times' is not defined                                           no-undef
+  727:407  warning  'animateTo' is not defined                                       no-undef
+  727:418  warning  'duration' is not defined                                        no-undef
+  727:445  warning  'animateTo' is not defined                                       no-undef
+  727:456  warning  'animateTo' is not defined                                       no-undef
+  727:490  warning  'animateTo' is not defined                                       no-undef
+  727:501  warning  'duration' is not defined                                        no-undef
+  728:29   warning  'animateTo' is not defined                                       no-undef
+  728:152  warning  'jQuery' is not defined                                          no-undef
+  729:1    warning  Unnecessary semicolon                                            no-extra-semi
+  746:219  warning  'child' is not defined                                           no-undef
+  746:251  warning  'child' is not defined                                           no-undef
+  746:274  warning  'child' is not defined                                           no-undef
+  746:295  warning  'child' is not defined                                           no-undef
+  746:310  warning  'child' is not defined                                           no-undef
+  746:371  warning  'child' is not defined                                           no-undef
+  746:447  warning  'child' is not defined                                           no-undef
+  746:482  warning  'child' is not defined                                           no-undef
+  746:499  warning  'child' is not defined                                           no-undef
+  747:1    warning  'child' is not defined                                           no-undef
+  747:34   warning  'child' is not defined                                           no-undef
+  747:49   warning  'child' is not defined                                           no-undef
+  747:80   warning  'child' is not defined                                           no-undef
+  747:115  warning  'child' is not defined                                           no-undef
+  747:132  warning  'child' is not defined                                           no-undef
+  747:144  warning  'child' is not defined                                           no-undef
+  747:177  warning  'child' is not defined                                           no-undef
+  747:192  warning  'child' is not defined                                           no-undef
+  747:202  warning  'child' is not defined                                           no-undef
+  747:212  warning  'child' is not defined                                           no-undef
+  747:224  warning  'child' is not defined                                           no-undef
+  747:238  warning  'child' is not defined                                           no-undef
+  747:307  warning  'child' is not defined                                           no-undef
+  748:100  warning  'jQuery' is not defined                                          no-undef
+  749:1    warning  Unnecessary semicolon                                            no-extra-semi
+  762:362  warning  'jQuery' is not defined                                          no-undef
+  763:1    warning  Unnecessary semicolon                                            no-extra-semi
+  776:291  warning  'jQuery' is not defined                                          no-undef
+  777:1    warning  Unnecessary semicolon                                            no-extra-semi
+  790:20   warning  'jQuery' is not defined                                          no-undef
+  791:1    warning  Unnecessary semicolon                                            no-extra-semi
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/jquery.flot.js
+    31:926   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+    31:1070  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+    31:1260  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+    31:1292  warning  Unnecessary escape character: \%                                 no-useless-escape
+    31:1322  warning  Unnecessary escape character: \%                                 no-useless-escape
+    31:1352  warning  Unnecessary escape character: \%                                 no-useless-escape
+    31:1449  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+    31:1482  warning  Unnecessary escape character: \%                                 no-useless-escape
+    31:1512  warning  Unnecessary escape character: \%                                 no-useless-escape
+    31:1542  warning  Unnecessary escape character: \%                                 no-useless-escape
+    31:1684  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+    31:1814  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+    31:2945  warning  'jQuery' is not defined                                          no-undef
+   176:27    warning  'i' is defined but never used                                    no-unused-vars
+   493:29    warning  'length' is defined but never used                               no-unused-vars
+   494:32    warning  'x' is defined but never used                                    no-unused-vars
+   494:35    warning  'y' is defined but never used                                    no-unused-vars
+   494:38    warning  'axis' is defined but never used                                 no-unused-vars
+   548:17    warning  'insertSteps' is not defined                                     no-undef
+   602:29    warning  'insertSteps' is not defined                                     no-undef
+   923:17    warning  'index' is defined but never used                                no-unused-vars
+  1007:13    warning  'allocatedAxes' is not defined                                   no-undef
+  1011:24    warning  'allocatedAxes' is not defined                                   no-undef
+  1023:26    warning  'allocatedAxes' is not defined                                   no-undef
+  1024:47    warning  'allocatedAxes' is not defined                                   no-undef
+  1050:24    warning  'allocatedAxes' is not defined                                   no-undef
+  1151:26    warning  'i' is already defined                                           no-redeclare
+  1252:25    warning  'fmt' is not defined                                             no-undef
+  1255:29    warning  'fmt' is not defined                                             no-undef
+  1257:29    warning  'fmt' is not defined                                             no-undef
+  1260:25    warning  'fmt' is not defined                                             no-undef
+  1263:29    warning  'fmt' is not defined                                             no-undef
+  1265:29    warning  'fmt' is not defined                                             no-undef
+  1268:25    warning  'fmt' is not defined                                             no-undef
+  1270:49    warning  'fmt' is not defined                                             no-undef
+  1439:18    warning  'i' is not defined                                               no-undef
+  1439:25    warning  'i' is not defined                                               no-undef
+  1439:44    warning  'i' is not defined                                               no-undef
+  1440:29    warning  'i' is not defined                                               no-undef
+  1554:17    warning  'axes' is already defined                                        no-redeclare
+  1802:28    warning  'top' is defined but never used                                  no-unused-vars
+  1808:24    warning  Unexpected constant condition                                    no-constant-condition
+  2254:30    warning  'foundPoint' is assigned a value but never used                  no-unused-vars
+  2309:29    warning  'x' is already defined                                           no-redeclare
+  2309:44    warning  'y' is already defined                                           no-redeclare
+  2347:50    warning  's' is defined but never used                                    no-unused-vars
+  2479:17    warning  'x' is already defined                                           no-redeclare
+  2480:17    warning  'y' is already defined                                           no-redeclare
+  2599:4     warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/jquery.qtip.min.js
+  13:147    warning  'window' is already defined as a built-in global variable        no-redeclare
+  13:177    warning  'console' is already defined as a built-in global variable       no-redeclare
+  13:1661   warning  Empty block statement                                            no-empty
+  13:2091   warning  Empty block statement                                            no-empty
+  13:2886   warning  's' is defined but never used                                    no-unused-vars
+  13:3765   warning  'h' is defined but never used                                    no-unused-vars
+  13:4641   warning  'h' is defined but never used                                    no-unused-vars
+  13:5378   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:5612   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:7115   warning  'c' is defined but never used                                    no-unused-vars
+  13:7378   warning  'x' is assigned a value but never used                           no-unused-vars
+  13:8340   warning  't' is assigned a value but never used                           no-unused-vars
+  13:8354   warning  'v' is assigned a value but never used                           no-unused-vars
+  13:11091  warning  'j' is assigned a value but never used                           no-unused-vars
+  13:11708  warning  Empty block statement                                            no-empty
+  13:13957  warning  Empty block statement                                            no-empty
+  13:14996  warning  'a' is defined but never used                                    no-unused-vars
+  13:15147  warning  'd' is assigned a value but never used                           no-unused-vars
+  13:18971  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:21584  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  13:22642  warning  'o' is defined but never used                                    no-unused-vars
+  13:23929  warning  'h' is defined but never used                                    no-unused-vars
+  13:30940  warning  'c' is assigned a value but never used                           no-unused-vars
+  13:31143  warning  'r' is assigned a value but never used                           no-unused-vars
+  13:34453  warning  'c' is assigned a value but never used                           no-unused-vars
+  13:34461  warning  'd' is assigned a value but never used                           no-unused-vars
+  13:34899  warning  Empty block statement                                            no-empty
+  13:35316  warning  'e' is defined but never used                                    no-unused-vars
+  13:36850  warning  'm' is defined but never used                                    no-unused-vars
+  13:38612  warning  'c' is defined but never used                                    no-unused-vars
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/jquery.simplemodal.js
+  10:276  warning  'jQuery' is not defined    no-undef
+  23:134  warning  'b' is assigned to itself  no-self-assign
+  23:138  warning  'c' is assigned to itself  no-self-assign
+  25:246  warning  'jQuery' is not defined    no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/jquery.tinyscrollbar.min.js
+  1:223   warning  'b' is defined but never used  no-unused-vars
+  1:433   warning  'b' is already defined         no-redeclare
+  1:2519  warning  'c' is already defined         no-redeclare
+  1:2713  warning  'jQuery' is not defined        no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/jsxgraphcore.js
+  7539:5  error  Parsing error: Deleting local variable in strict mode
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/model.js
+   1:1   warning  'jQuery' is not defined                     no-undef
+  23:13  warning  'drawgraph_SpotSizevsDepth' is not defined  no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/model1.js
+   1:1   warning  'jQuery' is not defined                     no-undef
+  23:13  warning  'drawgraph_SpotSizevsWidth' is not defined  no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/model2.js
+   1:1   warning  'jQuery' is not defined                  no-undef
+  23:13  warning  'drawgraph_PowervsWidth' is not defined  no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/model3.js
+   1:1   warning  'jQuery' is not defined                  no-undef
+  23:13  warning  'drawgraph_PowervsDepth' is not defined  no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/modules/exporting.js
+   9:19   warning  'Highcharts' is not defined       no-undef
+  14:201  warning  'Highcharts' is not defined       no-undef
+  14:318  warning  'e' is already defined            no-redeclare
+  15:489  warning  Unnecessary escape character: \/  no-useless-escape
+  16:361  warning  'b' is already defined            no-redeclare
+  20:57   warning  'b' is already defined            no-redeclare
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/modules/exporting.src.js
+   11:22  warning  'document' is already defined as a built-in global variable    no-redeclare
+   11:32  warning  'window' is already defined as a built-in global variable      no-redeclare
+   11:40  warning  'Math' is already defined as a built-in global variable        no-redeclare
+   11:46  warning  'setTimeout' is already defined as a built-in global variable  no-redeclare
+  320:31  warning  Unnecessary escape character: \/                               no-useless-escape
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/pulsedheating.js
+   90:28  warning  'jQuery' is not defined                     no-undef
+   97:2   warning  Unnecessary semicolon                       no-extra-semi
+  108:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  109:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  110:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  111:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  112:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  113:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  114:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  114:18  warning  'ssx' is assigned a value but never used    no-unused-vars
+  114:44  warning  'sxxx' is already defined                   no-redeclare
+  115:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  116:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  133:11  warning  'i' is already defined                      no-redeclare
+  158:8   warning  'chart' is assigned a value but never used  no-unused-vars
+  158:20  warning  'Highcharts' is not defined                 no-undef
+  162:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  163:8   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  164:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  170:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  171:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  172:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  173:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  180:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  181:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  182:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  183:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  186:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  238:7   warning  'c' is already defined                      no-redeclare
+  281:6   warning  'i' is already defined                      no-redeclare
+  290:2   warning  Unnecessary semicolon                       no-extra-semi
+  293:1   warning  '$' is not defined                          no-undef
+  294:5   warning  '$' is not defined                          no-undef
+  305:7   warning  'i' is assigned a value but never used      no-unused-vars
+  305:14  warning  'j' is assigned a value but never used      no-unused-vars
+  308:3   warning  '$' is not defined                          no-undef
+  309:14  warning  '$' is not defined                          no-undef
+  310:22  warning  '$' is not defined                          no-undef
+  314:3   warning  '$' is not defined                          no-undef
+  315:25  warning  '$' is not defined                          no-undef
+  318:5   warning  '$' is not defined                          no-undef
+  321:5   warning  '$' is not defined                          no-undef
+  323:5   warning  '$' is not defined                          no-undef
+  328:3   warning  '$' is not defined                          no-undef
+  330:14  warning  '$' is not defined                          no-undef
+  331:22  warning  '$' is not defined                          no-undef
+  335:6   warning  'diagram' is not defined                    no-undef
+  336:18  warning  Empty block statement                       no-empty
+  341:6   warning  'bendLine' is not defined                   no-undef
+  342:18  warning  Empty block statement                       no-empty
+  348:3   warning  '$' is not defined                          no-undef
+  349:4   warning  '$' is not defined                          no-undef
+  350:4   warning  '$' is not defined                          no-undef
+  355:4   warning  '$' is not defined                          no-undef
+  363:4   warning  '$' is not defined                          no-undef
+  364:4   warning  '$' is not defined                          no-undef
+  377:4   warning  '$' is not defined                          no-undef
+  381:3   warning  '$' is not defined                          no-undef
+  386:3   warning  '$' is not defined                          no-undef
+  387:4   warning  '$' is not defined                          no-undef
+  388:4   warning  '$' is not defined                          no-undef
+  392:3   warning  '$' is not defined                          no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/pulsedheating2.js
+   90:28  warning  'jQuery' is not defined                     no-undef
+   97:2   warning  Unnecessary semicolon                       no-extra-semi
+  108:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  109:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  110:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  111:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  112:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  113:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  114:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  114:18  warning  'ssx' is assigned a value but never used    no-unused-vars
+  114:44  warning  'sxxx' is already defined                   no-redeclare
+  115:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  116:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  133:11  warning  'i' is already defined                      no-redeclare
+  158:8   warning  'chart' is assigned a value but never used  no-unused-vars
+  158:20  warning  'Highcharts' is not defined                 no-undef
+  162:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  163:8   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  164:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  170:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  171:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  172:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  173:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  180:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  181:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  182:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  183:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  186:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  238:7   warning  'c' is already defined                      no-redeclare
+  281:6   warning  'i' is already defined                      no-redeclare
+  290:2   warning  Unnecessary semicolon                       no-extra-semi
+  293:1   warning  '$' is not defined                          no-undef
+  294:5   warning  '$' is not defined                          no-undef
+  305:7   warning  'i' is assigned a value but never used      no-unused-vars
+  305:14  warning  'j' is assigned a value but never used      no-unused-vars
+  308:3   warning  '$' is not defined                          no-undef
+  309:14  warning  '$' is not defined                          no-undef
+  310:22  warning  '$' is not defined                          no-undef
+  314:3   warning  '$' is not defined                          no-undef
+  315:25  warning  '$' is not defined                          no-undef
+  318:5   warning  '$' is not defined                          no-undef
+  321:5   warning  '$' is not defined                          no-undef
+  323:5   warning  '$' is not defined                          no-undef
+  328:3   warning  '$' is not defined                          no-undef
+  330:14  warning  '$' is not defined                          no-undef
+  331:22  warning  '$' is not defined                          no-undef
+  335:6   warning  'diagram' is not defined                    no-undef
+  336:18  warning  Empty block statement                       no-empty
+  341:6   warning  'bendLine' is not defined                   no-undef
+  342:18  warning  Empty block statement                       no-empty
+  348:3   warning  '$' is not defined                          no-undef
+  349:4   warning  '$' is not defined                          no-undef
+  350:4   warning  '$' is not defined                          no-undef
+  355:4   warning  '$' is not defined                          no-undef
+  363:4   warning  '$' is not defined                          no-undef
+  364:4   warning  '$' is not defined                          no-undef
+  377:4   warning  '$' is not defined                          no-undef
+  381:3   warning  '$' is not defined                          no-undef
+  386:3   warning  '$' is not defined                          no-undef
+  387:4   warning  '$' is not defined                          no-undef
+  388:4   warning  '$' is not defined                          no-undef
+  392:3   warning  '$' is not defined                          no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/raphael.js
+  3718:58  error  Parsing error: Deleting local variable in strict mode
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/swfobject.js
+  4:1074  warning  'ActiveXObject' is not defined          no-undef
+  4:1245  warning  Empty block statement                   no-empty
+  4:1297  warning  'k' is assigned a value but never used  no-unused-vars
+  4:6921  warning  Empty block statement                   no-empty
+  4:7918  warning  Unnecessary escape character: \"        no-useless-escape
+  4:7922  warning  Unnecessary escape character: \.        no-useless-escape
+  4:8017  warning  'd' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/themes/dark-blue.js
+    6:1   warning  'Highcharts' is not defined                             no-undef
+  263:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  263:25  warning  'Highcharts' is not defined                             no-undef
+  263:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/themes/dark-green.js
+    6:1   warning  'Highcharts' is not defined                             no-undef
+  263:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  263:25  warning  'Highcharts' is not defined                             no-undef
+  263:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/themes/gray.js
+    6:1   warning  'Highcharts' is not defined                             no-undef
+  262:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  262:25  warning  'Highcharts' is not defined                             no-undef
+  262:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/themes/grid.js
+   6:1   warning  'Highcharts' is not defined                             no-undef
+  95:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  95:25  warning  'Highcharts' is not defined                             no-undef
+  95:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/themes/skies.js
+   6:1   warning  'Highcharts' is not defined                             no-undef
+  89:5   warning  'highchartsOptions' is assigned a value but never used  no-unused-vars
+  89:25  warning  'Highcharts' is not defined                             no-undef
+  89:47  warning  'Highcharts' is not defined                             no-undef
+
+/home/runner/work/exp-hardening-ndyag-laser-coep/exp-hardening-ndyag-laser-coep/experiment/simulation/js/yagLaser.js
+    16:18  warning  Unnecessary semicolon                                           no-extra-semi
+    40:5   warning  'formula' is assigned a value but never used                    no-unused-vars
+    41:1   warning  '$' is not defined                                              no-undef
+    42:2   warning  '$' is not defined                                              no-undef
+    50:3   warning  '$' is not defined                                              no-undef
+    51:4   warning  '$' is not defined                                              no-undef
+    52:4   warning  '$' is not defined                                              no-undef
+    53:4   warning  '$' is not defined                                              no-undef
+    54:5   warning  '$' is not defined                                              no-undef
+    55:5   warning  '$' is not defined                                              no-undef
+    56:5   warning  '$' is not defined                                              no-undef
+    57:5   warning  '$' is not defined                                              no-undef
+    59:5   warning  '$' is not defined                                              no-undef
+    60:5   warning  '$' is not defined                                              no-undef
+    61:5   warning  '$' is not defined                                              no-undef
+    62:5   warning  '$' is not defined                                              no-undef
+    63:5   warning  '$' is not defined                                              no-undef
+    64:5   warning  '$' is not defined                                              no-undef
+    65:5   warning  '$' is not defined                                              no-undef
+    66:5   warning  '$' is not defined                                              no-undef
+    67:5   warning  '$' is not defined                                              no-undef
+    72:5   warning  '$' is not defined                                              no-undef
+    73:5   warning  '$' is not defined                                              no-undef
+    78:7   warning  'image' is assigned a value but never used                      no-unused-vars
+    81:3   warning  'swfobject' is not defined                                      no-undef
+    83:5   warning  'startAnimation' is assigned a value but never used             no-unused-vars
+    89:1   warning  '$' is not defined                                              no-undef
+    96:1   warning  '$' is not defined                                              no-undef
+    97:1   warning  '$' is not defined                                              no-undef
+    98:1   warning  '$' is not defined                                              no-undef
+    99:1   warning  '$' is not defined                                              no-undef
+   147:5   warning  'selectedMode' is assigned a value but never used               no-unused-vars
+   149:9   warning  '$' is not defined                                              no-undef
+   150:1   warning  '$' is not defined                                              no-undef
+   153:3   warning  '$' is not defined                                              no-undef
+   154:3   warning  '$' is not defined                                              no-undef
+   155:3   warning  '$' is not defined                                              no-undef
+   167:5   warning  '$' is not defined                                              no-undef
+   168:5   warning  '$' is not defined                                              no-undef
+   176:5   warning  'selectedAxis' is assigned a value but never used               no-unused-vars
+   178:10  warning  '$' is not defined                                              no-undef
+   179:2   warning  '$' is not defined                                              no-undef
+   181:2   warning  '$' is not defined                                              no-undef
+   188:5   warning  '$' is not defined                                              no-undef
+   189:5   warning  '$' is not defined                                              no-undef
+   196:5   warning  '$' is not defined                                              no-undef
+   197:5   warning  '$' is not defined                                              no-undef
+   217:5   warning  'h5' is assigned a value but never used                         no-unused-vars
+   305:5   warning  'checkPlotValue' is assigned a value but never used             no-unused-vars
+   311:4   warning  '$' is not defined                                              no-undef
+   331:5   warning  'openNeWindow' is assigned a value but never used               no-unused-vars
+   336:5   warning  'reset' is assigned a value but never used                      no-unused-vars
+   344:5   warning  '$' is not defined                                              no-undef
+   345:5   warning  '$' is not defined                                              no-undef
+   346:5   warning  '$' is not defined                                              no-undef
+   347:5   warning  '$' is not defined                                              no-undef
+   348:5   warning  '$' is not defined                                              no-undef
+   350:5   warning  '$' is not defined                                              no-undef
+   351:5   warning  '$' is not defined                                              no-undef
+   352:5   warning  '$' is not defined                                              no-undef
+   353:5   warning  '$' is not defined                                              no-undef
+   354:5   warning  '$' is not defined                                              no-undef
+   355:5   warning  '$' is not defined                                              no-undef
+   356:5   warning  '$' is not defined                                              no-undef
+   357:5   warning  '$' is not defined                                              no-undef
+   362:5   warning  'selectedPower' is assigned a value but never used              no-unused-vars
+   363:2   warning  '$' is not defined                                              no-undef
+   364:10  warning  '$' is not defined                                              no-undef
+   366:2   warning  '$' is not defined                                              no-undef
+   367:2   warning  '$' is not defined                                              no-undef
+   426:2   warning  '$' is not defined                                              no-undef
+   427:2   warning  '$' is not defined                                              no-undef
+   428:2   warning  '$' is not defined                                              no-undef
+   436:2   warning  '$' is not defined                                              no-undef
+   453:1   warning  '$' is not defined                                              no-undef
+   454:5   warning  'chart' is assigned a value but never used                      no-unused-vars
+   454:17  warning  'Highcharts' is not defined                                     no-undef
+   461:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   462:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   463:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   464:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   465:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   466:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   467:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   468:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   469:8   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   470:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   476:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   477:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   478:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   479:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   486:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   487:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   488:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   489:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   493:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   494:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   496:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   497:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   498:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   499:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   506:3   warning  '$' is not defined                                              no-undef
+   507:3   warning  '$' is not defined                                              no-undef
+   508:3   warning  '$' is not defined                                              no-undef
+   513:5   warning  'drawgraph_PowervsWidth' is assigned a value but never used     no-unused-vars
+   514:2   warning  '$' is not defined                                              no-undef
+   518:5   warning  'chart' is assigned a value but never used                      no-unused-vars
+   518:17  warning  'Highcharts' is not defined                                     no-undef
+   525:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   526:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   527:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   528:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   529:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   530:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   531:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   532:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   533:8   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   534:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   535:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   541:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   542:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   543:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   544:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   551:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   552:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   553:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   554:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   557:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   558:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   559:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   561:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   562:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   563:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   564:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   577:7   warning  'r' is assigned a value but never used                          no-unused-vars
+   583:23  warning  'ssx' is assigned a value but never used                        no-unused-vars
+   583:61  warning  'sxxx' is already defined                                       no-redeclare
+   602:11  warning  'i' is already defined                                          no-redeclare
+   608:5   warning  'ch' is assigned a value but never used                         no-unused-vars
+   609:2   warning  '$' is not defined                                              no-undef
+   610:2   warning  '$' is not defined                                              no-undef
+   611:2   warning  '$' is not defined                                              no-undef
+   612:2   warning  '$' is not defined                                              no-undef
+   617:5   warning  'ch2' is assigned a value but never used                        no-unused-vars
+   618:3   warning  '$' is not defined                                              no-undef
+   621:5   warning  'pl' is assigned a value but never used                         no-unused-vars
+   622:2   warning  '$' is not defined                                              no-undef
+   623:2   warning  '$' is not defined                                              no-undef
+   624:4   warning  '$' is not defined                                              no-undef
+   627:5   warning  'selectedSpotSize' is assigned a value but never used           no-unused-vars
+   628:2   warning  '$' is not defined                                              no-undef
+   629:10  warning  '$' is not defined                                              no-undef
+   630:2   warning  '$' is not defined                                              no-undef
+   631:2   warning  '$' is not defined                                              no-undef
+   675:2   warning  '$' is not defined                                              no-undef
+   676:2   warning  '$' is not defined                                              no-undef
+   694:1   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   696:2   warning  '$' is not defined                                              no-undef
+   698:6   warning  'chart' is assigned a value but never used                      no-unused-vars
+   698:18  warning  'Highcharts' is not defined                                     no-undef
+   705:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   706:8   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   707:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   713:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   714:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   715:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   716:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   723:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   724:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   725:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   726:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   729:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   730:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   731:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   732:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   733:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   734:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   735:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   737:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   738:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   740:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   741:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   742:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   743:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   750:4   warning  '$' is not defined                                              no-undef
+   751:5   warning  '$' is not defined                                              no-undef
+   752:5   warning  '$' is not defined                                              no-undef
+   756:6   warning  'drawgraph_SpotSizevsWidth' is assigned a value but never used  no-unused-vars
+   757:1   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   757:3   warning  '$' is not defined                                              no-undef
+   759:6   warning  'chart' is assigned a value but never used                      no-unused-vars
+   759:18  warning  'Highcharts' is not defined                                     no-undef
+   766:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   767:8   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   768:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   774:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   775:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   776:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   777:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   784:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   785:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   786:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   787:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   790:4   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   791:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   792:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   793:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   794:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   795:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   796:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   798:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   799:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   801:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   802:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   803:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   804:3   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+   817:7   warning  'r' is assigned a value but never used                          no-unused-vars
+   823:23  warning  'ssx' is assigned a value but never used                        no-unused-vars
+   823:61  warning  'sxxx' is already defined                                       no-redeclare
+   842:11  warning  'i' is already defined                                          no-redeclare
+  1084:48  warning  'startx' is defined but never used                              no-unused-vars
+  1084:56  warning  'starty' is defined but never used                              no-unused-vars
+  1084:64  warning  'endx' is defined but never used                                no-unused-vars
+  1084:70  warning  'endy' is defined but never used                                no-unused-vars
+  1097:3   warning  '$' is not defined                                              no-undef
+  1111:1   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+  1112:1   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+  1129:5   warning  'drawSpotsInXdirection2' is assigned a value but never used     no-unused-vars
+  1136:1   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+  1137:1   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+  1160:2   warning  Mixed spaces and tabs                                           no-mixed-spaces-and-tabs
+  1198:5   warning  'drawSpotsInYdirection2' is assigned a value but never used     no-unused-vars
+  1237:5   warning  'drawLineYContinuousMode2' is assigned a value but never used   no-unused-vars
+
+✖ 849 problems (2 errors, 847 warnings)
+  0 errors and 38 warnings potentially fixable with the `--fix` option.
+

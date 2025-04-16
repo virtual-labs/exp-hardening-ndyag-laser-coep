@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Performance of Laser spot hardening process is affected by",
+      "answers": {
+        "a": "Welding speed",
+        "b": "Focal length of the beam and focusing lens",
+        "c": "Work piece position",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following conditions need to be satisfied for laser hardening?",
+      "answers": {
+        "a": "Highly accurate positioning of the components",
+        "b": "Accurate positioning of the components",
+        "c": "in the focus of the laser to prevent large variations in the irradiance",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Laser hardening can be performed using",
+      "answers": {
+        "a": "Pulsed NdYAG system",
+        "b": "Continuous wave NdYAG system",
+        "c": "Pulsed Fiber laser system",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Laser cannot effectively machine",
+      "answers": {
+        "a": "Refractory materials",
+        "b": "WC (Tungsten carbides)",
+        "c": "Copper and Aluminium",
+        "d": "Steels"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Surface texturing can be carried out using",
+      "answers": {
+        "a": "EDM",
+        "b": "Laser machining",
+        "c": "Electro forming",
+        "d": "B and C"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

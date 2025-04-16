@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Laser is a ----- manufacturing process",
+      "answers": {
+        "a": "flexible",
+        "b": "Ideal",
+        "c": "Selective",
+        "d": "Chip less"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Laser radiation by itself is a",
+      "answers": {
+        "a": "Thermal process",
+        "b": "Non thermal",
+        "c": "Ultrasonic",
+        "d": "Monochromatic light"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Laser material processing of materials is a",
+      "answers": {
+        "a": "ultrasonic",
+        "b": "Non thermal",
+        "c": "Thermal",
+        "d": "ablation"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Laser material processing is associated with",
+      "answers": {
+        "a": "Absorption of total energy",
+        "b": "Adsorption",
+        "c": "Transmission",
+        "d": "Reflection"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Efficiency of Laser systems for machining is generally",
+      "answers": {
+        "a": "0.5% to 1%",
+        "b": "3% to 5%",
+        "c": "10% to 20%",
+        "d": "30% to 50%"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
